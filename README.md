@@ -26,3 +26,6 @@ Este repositorio contiene un proyecto de prueba de rendimiento usando [K6](https
 
 ```bash
 k6 run k6pruebadecarga.js
+
+
+👤 Autor Santiago Alejandro Sepúlveda Palacio |QA Engineer| 📧 santiagosepulveda.engineer@gmail.com
